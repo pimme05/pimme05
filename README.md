@@ -20,7 +20,7 @@ I am a 3rd-year Computer Engineering student with a passion for turning data int
 
 * Temasek Foundation Specialists' Community Action & Leadership Exchange Programme 2024 (Full Scholarship Recipient): Represented Thailand in a leadership & sustainability program in Singapore.
 
-🌍  I'm based in Thailand
+🌍  I'm based in Bangkok, Thailand
 
 ✉️  You can contact me at [phimnaraket@gmail.com](mailto:phimnaraket@gmail.com)
 
