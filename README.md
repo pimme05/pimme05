@@ -9,8 +9,7 @@ I am a 3rd-year Computer Engineering student with a passion for turning data int
 
 * 🌱 Currently exploring data pipelines, cloud infrastructure, and analytics frameworks
 
-
-  ![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/3DgyFEN1K))
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZrdW1xNGVuYjBzdXNrbHdhZDVkd2dlbmdsM2VleGIyODNha2t6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif)
 
 
 🏆 Achievements & Highlights
