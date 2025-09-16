@@ -9,6 +9,10 @@ I am a 3rd-year Computer Engineering student with a passion for turning data int
 
 * 🌱 Currently exploring data pipelines, cloud infrastructure, and analytics frameworks
 
+
+  ![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/3DgyFEN1K))
+
+
 🏆 Achievements & Highlights
 
 * 1st Runner-up – Hult Prize OnCampus 2025: Designed a sustainable recycling solution projected to recycle 1M+ bottles annually.
