@@ -1,7 +1,7 @@
 Hi 👋 My name is Phimnara Ketkaew
 =================================
 
-I am a Computer Engineering student with a passion for turning data into meaningful insights and building systems that scale. My curiosity lies in how cloud platforms, analytics, and modern data tools can be combined to create efficient pipelines and support smarter decision-making.
+I am a 3rd-year Computer Engineering student with a passion for turning data into meaningful insights and building systems that scale. My curiosity lies in how cloud platforms, analytics, and modern data tools can be combined to create efficient pipelines and support smarter decision-making.
 
 * 🎓 Studying at King Mongkut's Institute of Technology Ladkrabang (International Program)
 
